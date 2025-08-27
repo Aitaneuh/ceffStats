@@ -2,8 +2,7 @@
 ```json
 {
   "data": [
-    ["extra", "civility", "lastname", "firstname", "middle", "address", "zip", "city", "canton", "email"],
-    ...
+    ["extra", "civility", "lastname", "firstname", "middle", "address", "zip", "city", "canton", "email"]
   ]
 }
 ```
